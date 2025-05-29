@@ -1,6 +1,6 @@
 # Python Code Analyzer
 
-A simple Python desktop app built with Tkinter that helps you analyze your code! This tool runs **Radon** to check for cyclomatic complexity and **pycodestyle** for PEP8 style issues, then displays color-coded results in a user-friendly interface.
+A simple Python app built with Tkinter that helps you analyze your code! This tool runs **Radon** to check for cyclomatic complexity and **pycodestyle** for PEP8 style issues, then displays color-coded results in a user-friendly interface.
 
 ---
 
