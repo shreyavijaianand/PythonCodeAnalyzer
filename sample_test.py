@@ -49,4 +49,3 @@ def style_issues():
 # sample_test.py:30:6: E225 missing whitespace around operator         [purple]
 # sample_test.py:31:11: E201 whitespace after '('                     [purple]
 # sample_test.py:32:80: E501 line too long (exceeds 79 characters)   [purple]
-# sample_test.py:33:47: W292 no newline at end of file               [purple]
