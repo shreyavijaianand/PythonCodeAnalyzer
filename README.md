@@ -14,6 +14,12 @@ This application is designed for:
 Simply upload a `.py` file, analyze it, and generate a report—all in one place!
 
 ---
+## Tech Stack
+- **Frontend:** Tkinter
+- **Backend:** Python 3.x (main programming language), Radon (via radon.complexity.cc_visit), pycodestyle (via subprocess call)
+- **Utilities:** subprocess and os (in Python standard library)
+
+---
 
 ## Key Features
 
@@ -22,9 +28,6 @@ Simply upload a `.py` file, analyze it, and generate a report—all in one place
 - Identify PEP8 style violations with **pycodestyle**.
 - See results in a scrollable text pane with color-coded highlights.
 
----
-
-## Screenshot
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cd3d0bd6-68c1-41b5-a5c7-e5741d0b7564" alt="Report Example Screenshot" width="600"/>
 </p>
