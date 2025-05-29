@@ -29,7 +29,7 @@ Simply upload a `.py` file, analyze it, and generate a report—all in one place
   <img src="https://github.com/user-attachments/assets/cd3d0bd6-68c1-41b5-a5c7-e5741d0b7564" alt="Report Example Screenshot" width="600"/>
 </p>
 
-*Example Report output*
+<center>*Example Report output*</center>
 
 ---
 
@@ -74,7 +74,8 @@ Simply upload a `.py` file, analyze it, and generate a report—all in one place
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3136c809-cb7f-4e17-9a1c-6e4559aad20b" alt="Expected Output Screenshot" width="600"/>
 </p>
-*Expected output of the provided test file (sample_test.py).*
+
+<center>*Expected output of the provided test file (sample_test.py).*</center>
 
 ---
 
